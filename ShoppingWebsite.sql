@@ -69,7 +69,7 @@ CREATE TABLE IF NOT EXISTS `Customers` (
 --
 
 INSERT INTO `Customers` (`ID`, `FirstName`, `LastName`, `Email`, `Password`, `isDeleted`) VALUES
-(1, 'Naveen', 'Kanakatte', 'naveenkn1977@yahoo.com', 'samshta', 0);
+(1, 'Jane', 'Doe', 'jdoe@yahoo.com', 'samshta', 0);
 
 -- --------------------------------------------------------
 
